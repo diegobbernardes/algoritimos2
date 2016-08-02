@@ -1,0 +1,1 @@
+Repositório com os códigos criados na disciplina de ALgoritimos e Programação 2.
